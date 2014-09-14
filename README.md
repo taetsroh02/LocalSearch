@@ -1,0 +1,5 @@
+localsearch
+=========
+
+
+githubの練習
